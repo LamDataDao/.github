@@ -1,5 +1,7 @@
 # LamDataDao
 
+![Profile views](https://komarev.com/ghpvc/?username=LamDataDao&color=037F8C)
+
 Welcome to the team! Our mission is to bring data services to life through clarity, benefit, professionalism, and adaptability.
 
 ## About us
