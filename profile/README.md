@@ -12,4 +12,4 @@ Data Stroll (Làm Data Dạo in Vietnamese) is your dedicated partner for data s
 
 - Slack channel: [lamdatadao.slack.com](https://lamdatadao.slack.com)
 - Email: [lamdatadao@gmail.com](mailto:lamdatadao@gmail.com)
-- Team contacts: [MrBaoDK](github.com/MrBaoDK), [Tranguyen](github.com/tranguyen)
+- Team contacts: [MrBaoDK](https://github.com/MrBaoDK), [Tranguyen](https://github.com/tranguyen)
